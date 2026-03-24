@@ -1,7 +1,13 @@
 # Your Name
 
 ## About Me
-Mechanical Engineering student at Cornell interested in design and robotics.
+- Your major
+- What you’re interested in
+- What you’re looking for
+
+Example:
+Mechanical Engineering student interested in robotics and product design. 
+Seeking internship opportunities in aerospace and hardware systems.
 
 ## Projects
 ### Project Name
@@ -10,9 +16,9 @@ Mechanical Engineering student at Cornell interested in design and robotics.
 - Tools used
 
 ## Skills
-- CAD
-- MATLAB
-- Python
+- Github
+- ...
+- ...
 
 ## Contact
 - LinkedIn:
